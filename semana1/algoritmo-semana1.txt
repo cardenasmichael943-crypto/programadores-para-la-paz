@@ -1,0 +1,11 @@
+NICIO
+	Leer cuidadosamente la noticia
+	1.revisar el autor de la noticia 
+	2.buscar si el autor es confiable
+	3.investigar en otras fuentes 
+	4.verificar que no sean noticias falsas
+	5.comparar la información con las otras fuentes
+	6.¿la información es confiable?
+	   si - compartir 
+	   No - no compartir 
+FIN 
