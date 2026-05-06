@@ -1,0 +1,5 @@
+REPOSITORIO: Un repositorio es un lugar donde los programadores o desarrolladores guardan sus proyectos y poder también guardar sus cambios y llevar los proyectos de una forma organizada ya que ahí también podemos publicarlos.
+
+COMMIT: Un commit nos permite registrar los cambios de nuestros proyectos, guardándolos con una fotografía y un mensaje que explica sus modificaciones.
+
+PUSH: Un push nos permite enviar los commits a nuestro repositorio remoto, para que asi otras personas puedan ver nuestros proyectos o los cambios realizados.
