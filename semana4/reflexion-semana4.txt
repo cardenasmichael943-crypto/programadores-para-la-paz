@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan construir sus propias herramientas
+tecnológicas utilizando tecnologías como Node.js, porque al saber construir sus 
+propias herramientas tecnológicas no van a depender ni a gastar dinero mandándolas
+hacer a otras personas o empresas que le pueden cobrar mucho dinero, acá también 
+juega la unión en la comunidad para que entre todos compartan sus conocimientos
+y puedan aportar para construir dichas herramientas. Cuando una comunidad tiene 
+sus propias paginas web o plataformas digitales se le facilita el guardar y 
+compartir información a la comunidad y llegar a tomar mejores decisiones. 
