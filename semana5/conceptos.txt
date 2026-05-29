@@ -1,0 +1,4 @@
+*Lo que hace esa ruta es responder a peticiones con metodo POST en la ruta /reporte, respondiendo con json que el mensaje fue recibido 
+
+*En una aplicación comunitaria podría servir para que los ciudadanos envíen reportes, quejas o avisos sobre problemas de la comunidad.
+De esta manera la plataforma permite la participación y la comunicación entre la comunidad y los administradores.
