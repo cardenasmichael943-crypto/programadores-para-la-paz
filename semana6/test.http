@@ -1,0 +1,18 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Michael Steven Cardenas RIcaurte",
+  "mensaje": "Hola programadores para la paz"
+}
+
+
+
+### ejemplo de incidencia 
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "alcantarillado tapado",
+  "descripcion": "La comunidad reporta que cuando ahi fuertes llueves ocurren inundaciones debido a que las alcantarillas estan tapadas."
+}

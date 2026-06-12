@@ -1,0 +1,5 @@
+{
+  "tipo": "alcantarillado tapado",
+  "descripcion": "La comunidad reporta que cuando ahi fuertes llueves
+  ocurren inundaciones debido a que las alcantarillas estan tapadas."
+}

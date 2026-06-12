@@ -1,0 +1,17 @@
+                                                                 EXPLICACION 
+
+HTTP/1.1 200 OK                                    Significa que la petición fue exitosa.
+X-Powered-By: Express                              Indica que el servidor está usando el framework Express de Node.js.
+Content-Type: application/json; charset=utf-8      El contenido devuelto es JSON y usa codificación UTF-8.
+Content-Length: 115                                Longitud en bytes del cuerpo de la respuesta.
+ETag: W/"73-t871/6PuGl/d/Az32NnaP7pkUVI"           Identificador para controlar caché o si el recurso cambió.
+Date: Thu, 11 Jun 2026 21:49:30 GMT                Fecha y hora en que el servidor generó la respuesta.
+Connection: close                                  El servidor cerrará la conexión después de enviar esta respuesta.
+
+{
+  "estado": "Datos recibidos",                                 
+  "nombre": "Michael Steven Cardenas RIcaurte",
+  "mensaje": "Hola programadores para la paz"
+}
+
+Esta es la respuesta que devuelve el servidor 
