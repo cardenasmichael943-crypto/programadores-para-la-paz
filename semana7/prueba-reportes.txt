@@ -1,0 +1,20 @@
+Lo que sucede cuando enviamos los reportes esque aparece la informacion del archivo con 
+el mensaje j.son 
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 123
+ETag: W/"7b-CD9NRi2XfPTzQvB6nSj5Bg6d3mQ"
+Date: Fri, 12 Jun 2026 22:09:21 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en las calles del barrio"
+  }
+}
