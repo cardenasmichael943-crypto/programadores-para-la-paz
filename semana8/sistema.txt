@@ -1,0 +1,19 @@
+uname -a
+    Linux codespaces-7e54c0 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+Esta es la informacion que se muestra al ejecutar el comando uname -a,
+donde nos muestra informacion detallada sobre el sistema como: que se
+esta trabajando en un entorno de linux sobre servidores de Azure con 
+arquitectura de 64 bits y la version del kernel y tambien la fecha.
+
+whoami 
+    codespace
+Cuando ejecutamos en comando whoami nos muestra el nombre del usuario 
+que esta utilizando actualmente la sesion en la terminal.
+
+
+Es util conocer la informacion de un servidor, porque esto nos ayuda a saber
+en que sitema operativo estamos que version estamos utilizando, en que 
+usuario estamos trabajndo, con esta indormacion nos ayuda a tener un mejor
+control de nuestro servidor ya que asi nos permite resover problemas y 
+tomar decisiones de la manera correcta.
+

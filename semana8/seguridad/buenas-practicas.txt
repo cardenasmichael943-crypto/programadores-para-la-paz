@@ -1,0 +1,6 @@
+No compartir nuestras credenciales o tokends de seguridad 
+
+guardar nuestros archivos privados en un archivo .gitignore para que no vayan a ser publicados
+
+mantener nuestro software actualiazado
+

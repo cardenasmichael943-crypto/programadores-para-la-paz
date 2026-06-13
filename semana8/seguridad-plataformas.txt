@@ -1,0 +1,5 @@
+Verificar la informacion antes de ser compartida
+crear constraseñas seguras 
+No compartir nuestras credencialaes o tokens de seguridad
+cerrar sesiones si las abrimos en otros equipos
+usar conexiones seguras
