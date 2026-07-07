@@ -1,0 +1,6 @@
+Como ciudadano quiero reportar un problema ante las autoridades para darle seguimiento y poder resolverlo.
+
+Como coordinador quiero ver los reportes recibidos para aprobarlos o rechazarlos y así asegurar que la información sea válida.
+
+Como coordinador quiero asignar roles a los miembros de la comunidad para mantener una comunidad organizada.
+

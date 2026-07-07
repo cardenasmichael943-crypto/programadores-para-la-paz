@@ -1,0 +1,22 @@
+¿Qué 2 tareas del backlog harías primero?
+
+    *Como ciudadano quiero reportar un problema ante las autoridades para darle seguimiento y poder resolverlo.
+    *Como coordinador quiero ver los reportes recibidos para aprobarlos o rechazarlos y así asegurar que la información sea válida.
+
+Estas son las dos tareas del backlog que yo haria primero
+
+¿Por qué son las más importantes?
+
+    Son las mas importantes porque es necesario que los ciudadanos reporten sus diferentes
+    problemas para poder darles una solucion, tambien lo que hace el coordinador de revisar 
+    estos reportes para verificar si esta informacion es valida y darle su debido seguimiento.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+    Para mi una tarea esta terminada cuando ya pasa por su debida revision y aprueban que todo
+    funciona de la manera correcta.
+
+
+Funciona correctamente.
+Fue probada y no presenta errores.
+Quedó registrada en Git mediante un commit.

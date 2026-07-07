@@ -1,0 +1,8 @@
+Evento: surgerencias comunitarias guardadas
+
+Accion: Enviar mensaje a telegram
+
+Mensaje: "surgerencia recibibida y guardada correctamente"
+
+informacion que no debe enviarse: Datos reales como nombres, documentos, claves de acceso o informacion privada
+
