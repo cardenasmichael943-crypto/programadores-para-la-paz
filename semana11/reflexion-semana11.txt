@@ -1,0 +1,8 @@
+Una paltaforma tecnologica que promueve participacion ciudadana debe tener base de datos
+para almacenar de forma organizada la informacion de la comunidad como sus propuestas y
+reportes, con la atenticacion de usuarios nos permite verificar la identidad de cada 
+persona para darle acceso a estas plataformas para asi evitar el acceso de personas no
+autorizadas que pueden llegar a eliminar la informacion de la comunidad, por eso es 
+importante la proteccion de la informacion para poder garantizar seguridad y privacidad a 
+la comunidad, ya que esto les genera confianza a los usuarios y asi fomentar la participacion
+ciudadana y ser una comunidad bien organizada y unida que genera confianza entre todos.

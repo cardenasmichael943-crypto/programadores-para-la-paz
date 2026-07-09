@@ -1,0 +1,76 @@
+Entidad: Causa
+
+Campos principales:
+- id: 1
+- titulo: Reparación del parque infantil
+- descripcion: Solicitud para reparar los juegos dañados del parque del barrio.
+- fecha: 08/07/2026
+
+Propósito:
+Guardar las causas comunitarias que serán publicadas en la plataforma para que los ciudadanos las conozcan y apoyen.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: 1
+- causa_id: 1
+- usuario: Juan Pérez
+- fecha: 09/07/2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación de la comunidad.
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Entidad: Causa
+
+Campos principales:
+- id: 2
+- titulo: Campaña de reciclaje
+- descripcion: Crear una campaña para promover el reciclaje en el barrio.
+- fecha: 10/07/2026
+
+Propósito:
+Guardar las iniciativas propuestas por la comunidad para mejorar el entorno.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: 2
+- causa_id: 2
+- usuario: María Gómez
+- fecha: 11/07/2026
+
+Propósito:
+Registrar las personas que apoyan cada causa y conocer el nivel de participación.
+
+---------------------------------------------------------------------------------------------------------------
+
+
+Entidad: Causa
+
+Campos principales:
+- id: 3
+- titulo: Mejorar la iluminación de las calles
+- descripcion: Instalar nuevas luminarias en las calles con poca visibilidad.
+- fecha: 12/07/2026
+
+Propósito:
+Guardar las necesidades y propuestas de la comunidad para facilitar su seguimiento.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: 3
+- causa_id: 3
+- usuario: Carlos Rodríguez
+- fecha: 13/07/2026
+
+Propósito:
+Registrar el apoyo recibido por cada causa y llevar un control de la participación ciudadana.
+
+
