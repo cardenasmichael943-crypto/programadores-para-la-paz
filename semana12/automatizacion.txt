@@ -1,0 +1,6 @@
+Evento: Nueva causa registrada
+
+Mensaje: "Causa guardada correctamente"
+
+Informacion que no debe enviarse: Datos privados como numeros de identificacion, telefonos, direcciones, 
+contraseñas.

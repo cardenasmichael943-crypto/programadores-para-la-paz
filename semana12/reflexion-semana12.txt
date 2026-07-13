@@ -1,0 +1,9 @@
+Lo que aprendi en este curso "programadores para la paz", primero aprendi muchas cosas
+sobre tecnologia como lo es el fronted y el backend, desde como crear una aplicacion
+desde cero con HTML y JavaScript donde aprendimos a crear formularios interactivos 
+para la comunidad, y gracias a esto tambien aprendi que toda informacion debe tener un
+orden y tener un lenguaje claro y entendible para los demas, de igual forma aprendi
+los riesgos que pueden llegar a pasar si compartimos informacion falsa o informacion 
+personal ya que puede caer en malas manos. En conclusion este curso fue de mucho 
+aprendizaje para mi ya que con todo esto que aprendi me puede servir en un futuro 
+como lo es ahorita que voy a iniciar con la carrera de ingenieria en sistemas.
